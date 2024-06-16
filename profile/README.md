@@ -1,7 +1,7 @@
-## Hi there 👋 Welcome to Big Web Labs 🏢🌠
+## Hi there 👋 Welcome to Big Web Labs 🏢
 
-# The Big Web Labs Promise
-As a burgeoning startup in the AI space, Big Web Labs is committed to delivering not just a product but an experience. We recognize the vast potential of AI in transforming e-commerce and are dedicated to leading this innovative charge. Your support and feedback are invaluable as we grow and evolve.
+# Our Promise
+As a burgeoning startup, we are committed to delivering not just a product but an experience. We recognize the vast potential of technology in transforming lives and are dedicated to enabling anyone. Your support and feedback are invaluable as we grow and evolve.
 <!--
 
 **Here are some ideas to get you started:**
